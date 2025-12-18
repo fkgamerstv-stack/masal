@@ -1,0 +1,7 @@
+{
+  "name": "Masal Diyarı",
+  "description": "Çocuklar için yapay zeka destekli, resimli ve sesli interaktif masal kitabı uygulaması. Kendi masallarını oluştur, dinle ve keşfet!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
